@@ -1,4 +1,4 @@
-PRIMER EJERCICIO PRESENTADO EN CLASES 
+#PRIMER EJERCICIO PRESENTADO EN CLASES 
 x=int(input("Dijite un numero entero"))
 if x < 0:
     x=0
